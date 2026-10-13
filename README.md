@@ -26,5 +26,8 @@ b,c=numpy.linalg.eig(a)
 
 print(f"Eigen values are {b} and Eigen Vectors are {c}")
 ## Output:
+<img width="998" height="777" alt="image" src="https://github.com/user-attachments/assets/ce3433b0-5c12-425a-bfca-9cc497fec659" />
+<img width="1287" height="266" alt="image" src="https://github.com/user-attachments/assets/7a773815-4cdf-4caf-8b78-ea9cdb3806a4" />
+
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
